@@ -1,0 +1,21 @@
+/* Action links (clone, etc.) */
+#main-content ul.action-links {
+  margin: 5px 5px 15px 5px;
+  padding: 0.5em 1em;
+}
+
+#main-content ul.action-links li {
+  margin-left: 10px;
+}
+
+#main-content ul.action-links li a {
+  background: url(../img/add.png) no-repeat left center;
+  margin: 0 10px 0 0;
+  padding-left: 15px;
+}
+
+/* Print links */
+#main-content li.print_html {
+  float: right;
+  font-size: 0.85em;
+}
